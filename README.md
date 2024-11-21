@@ -2,10 +2,10 @@
 
 ## 📥 Installation Rapide
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 venvScriptsactivate     # Windows
-pip install demokit
+python3 -m pip install demokit
 demokit
 ```
 → Placer vos apps dans le dossier "apps" créé
