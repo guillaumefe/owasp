@@ -36,7 +36,7 @@ demokit
 
 # 🚀 Tutoriel : Build et Rebuild avec DemoKit
 
-Ce guide rapide vous explique comment **builder** et **rebuild** vos applications avec **DemoKit** en seulement 4 étapes.
+Ce guide rapide vous explique comment **construire** et **reconstruire** vos applications avec **DemoKit** en seulement 4 étapes.
 
 ---
 
