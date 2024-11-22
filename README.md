@@ -19,7 +19,7 @@ demokit
 
 ### 💻 Mode Installation
 - Élèves : suivent installation pip ci-dessus
-- Apps : https://github.com/guillaumefe/owasp/blob/main/demokit1.2.zip
+- Applications : [https://github.com/guillaumefe/owasp/blob/main/demokit1.2.zip](https://github.com/guillaumefe/owasp/blob/main/demokit-containers1.zip)
 - Accès : http://localhost:8000
 
 ## 🔗 Option : Accès Distant avec ngrok
@@ -36,7 +36,7 @@ demokit
 
 # 🚀 Tutoriel : Build et Rebuild avec DemoKit
 
-Ce guide rapide vous explique comment **builder** et **rebuilder** vos applications avec **DemoKit** en seulement 4 étapes.
+Ce guide rapide vous explique comment **builder** et **rebuild** vos applications avec **DemoKit** en seulement 4 étapes.
 
 ---
 
@@ -165,6 +165,7 @@ Ce tutoriel vous guide pour publier un package Python sur **PyPI** en utilisant 
 
 Assurez-vous que votre projet respecte cette structure :
 
+```
 📁 mon_projet/ 
 ├── 📁 mon_package/ 
 │ ├── init.py 
@@ -173,7 +174,7 @@ Assurez-vous que votre projet respecte cette structure :
 ├── README.md 
 ├── pyproject.toml 
 └── dist/
-
+```
 
 ### 🛠 Points importants :
 - **`__init__.py`** : Identifie le dossier comme un package Python.
