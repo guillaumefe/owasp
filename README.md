@@ -1,11 +1,41 @@
 # 🚀 Guide DemoKit - Formation
 
-## 📥 Installation Rapide
+## 📥 Quick Start
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # Linux/Mac
-venvScriptsactivate     # Windows
+# Linux/Mac :
+source venv/bin/activate
+# Windows :
+venvScriptsactivate
 python3 -m pip install demokit
+demokit
+```
+
+## 📥 Installation Rapide
+Etape 1 :
+```bash
+python3 -m venv venv
+```
+
+Etape 2 :
+```
+# Linux/Mac :
+source venv/bin/activate
+```
+
+Etape 2 ;
+```
+# Windows :
+venvScriptsactivate
+```
+
+Etape 3 :
+```
+python3 -m pip install demokit
+```
+
+Etape 4 :
+```
 demokit
 ```
 → Placer vos apps dans le dossier "apps" créé
