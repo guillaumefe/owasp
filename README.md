@@ -205,6 +205,7 @@ requires = ["click>=8.0"]
 
 [tool.flit.scripts]
 mon_package = "mon_package.__main__:main"
+```
 
 ## 🏗️ Étape 3 : Construisez votre package
 
