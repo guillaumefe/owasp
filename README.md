@@ -222,9 +222,11 @@ mon_package = "mon_package.__main__:main"
 ✅ Vérifiez :
 Après la commande, le dossier dist/ contiendra :
 
+```
 📁 dist/
 ├── mon_package-1.0.0.tar.gz
 └── mon_package-1.0.0-py3-none-any.whl
+```
 
 ## 🧪 Étape 4 : Testez votre package localement
 
